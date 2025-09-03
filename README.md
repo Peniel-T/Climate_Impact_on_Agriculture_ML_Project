@@ -74,8 +74,11 @@ R²: ~0.29
 
 ## Tech Stack
 
-## Language: Python
+### Language:
+Python
 
-## Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, LightGBM
+### Libraries: 
+NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, LightGBM
+
 
 
